@@ -1,4 +1,5 @@
 # Smart-Office-Monitoring-System
+# Tasks were done in '**Google Colab**'
 
 A Python [ML & Image Processing]-based system that combines motion detection and panoramic stitching to monitor office activities. The project features two main components:  
 
